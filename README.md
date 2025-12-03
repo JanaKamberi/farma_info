@@ -1,16 +1,23 @@
-# farma_info
+## Overview
+A modern, user-friendly pharmacy management application designed to streamline prescription management, medication tracking, and pharmacy operations. This application enables customers to browse medications, manage prescriptions, and pharmacists to efficiently handle inventory and customer orders.
 
-A new Flutter project.
+## Features
 
-## Getting Started
+**For Customers**
 
-This project is a starting point for a Flutter application.
+Prescription Management: Upload, track, and manage prescriptions with ease
+Medication Search: Browse a comprehensive medication database with detailed information
+Order History: View past orders and reorder medications quickly
+Refill Requests: Request prescription refills directly through the app
+Notifications: Receive alerts for prescription updates and order status
+Payment Integration: Secure payment processing for medication purchases
+Delivery Tracking: Real-time tracking of prescription deliveries
 
-A few resources to get you started if this is your first Flutter project:
+**For Pharmacists**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Prescription Verification: Review and verify customer prescriptions
+Inventory Management: Track medication stock levels and set alerts for low inventory
+Customer Records: Access comprehensive customer medication history
+Order Processing: Efficiently manage and fulfill customer orders
+Reporting: Generate reports on sales, inventory, and customer data
+Staff Management: Manage pharmacy staff and their schedules
